@@ -14,7 +14,7 @@
       "state": "Uttar Pradesh",
       "zip": "247776"
     },
-    "resumedownload": "https://drive.google.com/file/d/1HoPSLKzXYK3IE1H9era0ujPjANKcpO9m/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/17IzbB19iivw2mRx9ns5-hVvFwAUJ6biR/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -94,10 +94,10 @@
         "url": "https://space-x-launch-heroku.herokuapp.com/"
       },
       {
-        "title": "FaceBook Clone (React JS)",
+        "title": "Airbnb Clone (React JS)",
         "category": "",
-        "image": "facebook.png",
-        "url": "https://facebook-clone-tanu.vercel.app/"
+        "image": "airbnb-logo.png",
+        "url": "https://airbnb-clone-flax-rho.vercel.app/"
       },
       {
         "title": "LinkedIn Clone Clone (React JS)",
