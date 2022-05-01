@@ -54,6 +54,12 @@
         "title": "Teaching Assistant",
         "years": "June 2020 - October 2020",
         "description": "I took student's doubt on DSA couse in java. Solved 500+ doubts with an average rating of 4.7. Assisted 20+ students."
+      },
+      {
+        "company": "Pepcoding Education pvt.Ltd",
+        "title": "SDE Intern/Mentor",
+        "years": "September 2021 - Present",
+        "description": "Implemented Whiteboard on Pepcoding's official site to help with their doubt support. Fixed bugs on the platform Nados."
       }
     ],
     "skills": [
