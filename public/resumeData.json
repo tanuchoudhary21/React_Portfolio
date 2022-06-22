@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "TANU CHOUDHARY",
-    "occupation": "Student",
+    "occupation": "Software Developer",
     "description": "I love Coffee and Code...",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Tanu. I enjoy creating things that live on internet. I was fascinated by web development in 2020 when I decided to try something new apart from coding in java. Fast forwarding to the present and  I've had learned MERN stack web development and trying to improve it on daily basis. My predominant focus as of now is to gain more exposure and experience in Web development.",
@@ -14,7 +14,7 @@
       "state": "Uttar Pradesh",
       "zip": "247776"
     },
-    "resumedownload": "https://drive.google.com/file/d/1pjFMhN8arxZWvDKLy7bff-aR8Ein0XVW/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1W2liaXshY6w5-OdusPWUHKQPyqxIRr_M/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -103,7 +103,7 @@
         "title": "Airbnb Clone (React JS)",
         "category": "",
         "image": "airbnb-logo.png",
-        "url": "https://airbnb-clone-flax-rho.vercel.app/"
+        "url": "https://airbnb-clone-tanu-choudhary.vercel.app/"
       },
       {
         "title": "LinkedIn Clone Clone (React JS)",
