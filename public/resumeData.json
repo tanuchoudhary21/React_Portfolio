@@ -14,7 +14,7 @@
       "state": "Uttar Pradesh",
       "zip": "247776"
     },
-    "resumedownload": "https://drive.google.com/file/d/1W2liaXshY6w5-OdusPWUHKQPyqxIRr_M/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1QiKB-J9n-8CRJO4AEos0EUthIcDSAlU7/view?usp=share_link",
     "social": [
       {
         "name": "facebook",
@@ -42,6 +42,13 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
+        "school": " Graphic Era(Deemed to be University)",
+        "degree": "Master of Computer Applications",
+        "graduated": "june 2024",
+        "description": ""
+
+      },
+      {
         "school": " Delhi University",
         "degree": "Bachelor's Degree, Computer Science",
         "graduated": "June 2021",
@@ -50,16 +57,23 @@
     ],
     "work": [
       {
-        "company": "Coding Ninjas",
-        "title": "Teaching Assistant",
-        "years": "June 2020 - October 2020",
-        "description": "I took student's doubt on DSA couse in java. Solved 500+ doubts with an average rating of 4.7. Assisted 20+ students."
+        "company": "AccioJob",
+        "title": "Mentor",
+        "years": "December 2022 - January 2023",
+        "description": "Taught intermediate DSA to around 200 students with average rating of 4.2."
+
       },
       {
         "company": "Pepcoding Education pvt.Ltd",
         "title": "SDE Intern/Mentor",
-        "years": "September 2021 - Present",
+        "years": "September 2021 - August 2022",
         "description": "Implemented Whiteboard on Pepcoding's official site to help with their doubt support. Fixed bugs on the platform Nados."
+      },
+      {
+        "company": "Coding Ninjas",
+        "title": "Teaching Assistant",
+        "years": "June 2020 - October 2020",
+        "description": "I took student's doubt on DSA couse in java. Solved 500+ doubts with an average rating of 4.7. Assisted 20+ students."
       }
     ],
     "skills": [
@@ -93,18 +107,7 @@
         "image": "Amazon.jpg",
         "url": "https://react-amazon-clone-tanu.vercel.app/"
       },
-      {
-        "title": "SpaceX Launches Demo (React JS)",
-        "category": "",
-        "image": "spacex-img-bg.jpg",
-        "url": "https://space-x-launch-heroku.herokuapp.com/"
-      },
-      {
-        "title": "Airbnb Clone (React JS)",
-        "category": "",
-        "image": "airbnb-logo.png",
-        "url": "https://airbnb-clone-tanu-choudhary.vercel.app/"
-      },
+     
       {
         "title": "LinkedIn Clone Clone (React JS)",
         "category": "",
